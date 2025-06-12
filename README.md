@@ -2,9 +2,9 @@
 The purpose of this project was to analyze air quality data in the US from 2000-2023, as well as to see if air quality has increased or decreased over time.
 
 ##**DISCLAIMER**
-This project used an averaged AQI (Air Quality Index) of different pollutants to show trends in the data. 
-This is **NOT** an accurate measurement for air quality, as different pollutants have differing AQI formulas, scales, and health impacts.
-That being said, this project was mainly made for **personal educational and practice purposes only**, as this was my first time making a project with pandas and real world data.
+##This project used an averaged AQI (Air Quality Index) of different pollutants to show trends in the data. 
+##This is **NOT** an accurate measurement for air quality, as different pollutants have differing AQI formulas, scales, and health impacts.
+##That being said, this project was mainly made for **personal educational and practice purposes only**, as this was my first time making a project with pandas and real world data.
 
 ##Project Summary
 Used tools such as Python, pandas, matplotlib, and JupyterNotebook
